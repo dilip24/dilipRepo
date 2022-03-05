@@ -49,8 +49,8 @@ public class Expression
 		int x6 = obj.nextInt();
 		int DivResult = exp.div(MulResult,x6);
 		System.out.println("Final result is "+DivResult);
-		/*System.out.println("Enter username");
-		String userName = obj.nextLine();
+		System.out.println("Enter username");
+		/*String userName = obj.nextLine();
 		System.out.println("Username is: " + userName);*/
 	}
 
